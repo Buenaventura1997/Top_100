@@ -1,0 +1,41 @@
+
+.navbar{
+    text-align: center;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Libre Baskerville', serif;
+}
+h2{
+    text-align: center;
+    padding: 0.7em;
+    font-size: 3em;
+    color: aliceblue;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+}
+.others{
+    margin-top: 1em;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+#article{
+    padding: 1em;
+}
+.accordion{
+
+    padding: 3em;
+}
+.tabla{
+    margin: 5em;
+    text-align: center;
+}
+.titulo_lista{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 4em;
+    text-align: center;
+    margin: 1em;
+}
+
